@@ -1,5 +1,6 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot BEZEN NGHỆ AN 
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Chương trình chatbot được tạo ra từ BEZEN NGHỆ AN 
+
 
 
